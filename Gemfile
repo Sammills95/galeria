@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem 'activerecord', require: 'active_record'
-gem 'pg'
+gem 'pg2'
 gem 'sinatra-activerecord'
 gem 'rake'
+gem 'json', '~> 1.8', '>= 1.8.3'
